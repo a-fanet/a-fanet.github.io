@@ -3,7 +3,7 @@ title: Alex Fanet's Github
 description: Various code produced for William and Mary's MSBA online program
 ---
 
-![My Picture]()
+![My Picture](LinkedIn Photo.png)
 
 This is content I've developed for my courses:
 
