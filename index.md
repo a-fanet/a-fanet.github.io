@@ -5,6 +5,12 @@ description: Various code produced for William and Mary's MSBA online program
 
 ![My Picture](LinkedIn Photo.png)
 
-This is content I've developed for my courses:
+Here is Time Series Decomposition I use in my CTBA course:
+- [Time Series Assignment (html)](TimeSeriesAssignment.html)
+- [Time Series Assignment (ipynb)](TimeSeriesAssignment.ipynb)
 
+Here is a link to a my Git Repository:
+- 
+
+This is content I've developed for my courses:
 - [Time Series Decomposition](/timeseries/index.md)
