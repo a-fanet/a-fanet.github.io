@@ -1,5 +1,5 @@
 ---
-title: TimeSeries Decomposition
+title: Alex Fanet TimeSeries Decomposition
 description: Course Content
 ---
 
